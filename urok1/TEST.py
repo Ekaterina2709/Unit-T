@@ -1,5 +1,5 @@
 import unittest
-from calculator import calculate_discount
+from calculate import calculate_discount
 
 
 class TestCalculator(unittest.TestCase):
