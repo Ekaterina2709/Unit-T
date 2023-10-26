@@ -1,3 +1,4 @@
+# Данные сценарии выбраны так как в них наиболее вероятна ошибка.
 import pytest
 
 from task_1 import NumsLists
